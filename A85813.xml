@@ -1,0 +1,660 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anthologia : the life &amp; death of Mr Samuel Crook late pastor of Wrington in Sommerset-shire, who being dead, yet speaketh. By W.G. An eye and ear-witness of both.</title>
+            <author>Garrett, William, d. 1674 or 5.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1651</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 39 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85813</idno>
+            <idno type="STC">Wing G272</idno>
+            <idno type="STC">Thomason E1352_3</idno>
+            <idno type="STC">ESTC R209419</idno>
+            <idno type="EEBO-CITATION">99868300</idno>
+            <idno type="PROQUEST">99868300</idno>
+            <idno type="VID">169825</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85813)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169825)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 178:E1352[3])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anthologia : the life &amp; death of Mr Samuel Crook late pastor of Wrington in Sommerset-shire, who being dead, yet speaketh. By W.G. An eye and ear-witness of both.</title>
+                  <author>Garrett, William, d. 1674 or 5.</author>
+               </titleStmt>
+               <extent>[4], 44, 35-61 [i.e. 63], [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by James Flesher, for Philemon Stephens, at the sign of the gilded Lion in Pauls Church-yard,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1651.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first word in the title is in Greek characters.</note>
+                  <note>Text continuous despite pagination.</note>
+                  <note>P. 63 misnumbered 61.</note>
+                  <note>W.G. = William Garrett  cf. Wing.</note>
+                  <note>Annotation on Thomason copy: "Septemb. 29".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Crook, Samuel, 1575-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169825:1" rendition="simple:additions"/>
+            <p>ΑΝΘΟΛΟΓΙΑ. THE LIFE &amp; DEATH OF M<hi rend="sup">r</hi> 
+               <hi>SAMUEL CROOK</hi> Late Paſtor of <hi>WRINGTON</hi> in <hi>Sommerſet-ſhire, WHO Being dead, yet ſpeaketh.</hi>
+            </p>
+            <p>By <hi>W. G.</hi> An eye and ear-witneſs of both.</p>
+            <q>
+               <bibl>Auſonius Praefat. in Parent.</bibl>
+               <p>—<hi>Nec quicquam ſanctius habet reve<g ref="char:EOLhyphen"/>rentia ſuperſtitum, quam ut amiſſos venerabiliter recordetur.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>James Fleſher,</hi> for <hi>Philemon Stephens,</hi> at the Sign of the gilded Lion in <hi>Pauls Church-yard.</hi> 1651.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169825:2"/>
+            <pb facs="tcp:169825:2"/>
+            <head>TO THE HONOURABLE COLONEL <hi>WILLIAM PUREFOY</hi> OF <hi>Caldecot</hi> in <hi>Warwick-ſhire,</hi> Eſq; a Member of Parliament, and one of the Honourable Counſell of State.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S I have all my days lived in obſcurity, and ever af<g ref="char:EOLhyphen"/>fected quietneſſe from the world, rather then ac<g ref="char:EOLhyphen"/>quaintance with it, (eſtee<g ref="char:EOLhyphen"/>ming that of the Poet, <hi>Bene qui latuit bene vixit,</hi> above a Sibyl<g ref="char:EOLhyphen"/>line Oracle) ſo it is my deſire to paſſe out of it with as little noyſe and notice as I can.</p>
+            <p>But being incited by reading the Lives of ſome Fathers, and other modern Wor<g ref="char:EOLhyphen"/>thies, lately publiſhed, to draw a ſmall de<g ref="char:EOLhyphen"/>lineation of the fruitfull Life and Death of that late Magazin of Learning and Pie<g ref="char:EOLhyphen"/>ty, M. <hi>SAM<g ref="char:V">Ʋ</g>EL CROOK,</hi> my moſt Reverend and dear late Friend and Brother, heretofore well known to you in
+<pb facs="tcp:169825:3"/>the prime of his ſpring in <hi>Emmanuell Col<g ref="char:EOLhyphen"/>lege)</hi> to whoſe eminency and memory not onely my ſelf, but all that knew him, <hi>intus &amp; in cute,</hi> owe a larger tribute, then I can hope to pay; and of whom, I may ſadly and ſeriouſly profeſſe, as one of another excellent man, <hi>Piget me vivere poſt tantum virum, cujus magna doctrina fuit, ſed exi<g ref="char:EOLhyphen"/>guaſi cum pietate conferatur;)</hi> I muſt herein <hi>Hac ſaltem prodire tenus,</hi> to ſet forth this <hi>Authologie</hi> to open view for publick be<g ref="char:EOLhyphen"/>nefit.</p>
+            <p>Which being ſo, I apprehend as an hap<g ref="char:EOLhyphen"/>pineſſe this opportunity to manifeſt to the world ſome part of thoſe juſt and honoura<g ref="char:EOLhyphen"/>ble reſpects which I ever bare to your Worth, Name, and Family, by commen<g ref="char:EOLhyphen"/>ding this Relique of ſuch a Dead-living Saint unto you, who are very well able to make the beſt choyce of the faireſt Copies of Piety and Holineſſe, and to write ex<g ref="char:EOLhyphen"/>actly after them.</p>
+            <p>This performed I retire to my wonted <hi>
+                  <g ref="char:V">Ʋ</g>mbraculum,</hi> where I ſolace my ſelf, to have been not onely ſo well known unto you from your firſt <hi>undertaking</hi> for me at my Baptiſm, but under the benign aſpect of your care and countenance ever ſince that compaternall ſuſception: for which, I reſolve my ſelf altogether Yours, to ho<g ref="char:EOLhyphen"/>nour and ſerve you, as becomes</p>
+            <closer>
+               <dateline>From my ſtu<g ref="char:EOLhyphen"/>dy, <date>
+                     <hi>May</hi> 20, 1650.</date>
+               </dateline>
+               <salute>SIR,</salute> 
+               <signed>Your moſt obliged G-S. W. G. </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:169825:3"/>
+            <head>THE EXEMPLARY <hi>LIFE</hi> and <hi>DEATH</hi> OF That moſt accompliſhed and now Triumphant ſervant of Jeſus Chriſt, M<hi rend="sup">r</hi> 
+               <hi>SAM<g ref="char:V">Ʋ</g>EL CROOK.</hi>
+            </head>
+            <p>
+               <label>He was born at <hi>Great Wal<g ref="char:EOLhyphen"/>dingfield,</hi> in <hi>Suffolk.</hi> Jan. 17. 1574.</label> 
+               <seg rend="decorInit">H</seg>E was a Prophet, and the Son of a Prophet, even of that famous Lu<g ref="char:EOLhyphen"/>minary, M<hi rend="sup">r</hi> 
+               <hi>Tho<g ref="char:EOLhyphen"/>mas Crook,</hi> Doctor in Divinity, a learned and laborious Divine, ſometime Preacher to the Ho<g ref="char:EOLhyphen"/>nourable Society of <hi>Greys-Inne;</hi> a Gentleman, well de<g ref="char:EOLhyphen"/>ſcended, of an ancient Family.</p>
+            <p>
+               <label>His Edu<g ref="char:EOLhyphen"/>cation.</label> His Education was in <hi>Mer<g ref="char:EOLhyphen"/>chant-Taylors</hi> School, thence he was ſent to the Univerſity
+<pb n="2" facs="tcp:169825:4"/>of <hi>Cambridge,</hi> where he was, firſt <hi>Scholar,</hi> and after, choſen <hi>Fellow</hi> of <hi>Pembroke Hall</hi> by the unanimous ſuffrage of all, ſave the Maſter; upon whoſe refu<g ref="char:EOLhyphen"/>ſall, he was ſoon after elected and admitted one of the firſt foundation of <hi>Fellows</hi> in <hi>Em<g ref="char:EOLhyphen"/>manuel</hi> College, where unto this day, his name is pretious, being preſerved in their Libra<g ref="char:EOLhyphen"/>ry among their choyceſt Or<g ref="char:EOLhyphen"/>naments of that Houſe, in the Catalogue of their firſt Fel<g ref="char:EOLhyphen"/>lows, thus;
+<q>M<hi rend="sup">r</hi> 
+                  <hi>Samuel Crook Bachelour in Divinity.</hi>
+               </q>
+            </p>
+            <p>
+               <label>His Parts, Induſtry, and Profi<g ref="char:EOLhyphen"/>ciency.</label> From his youth he was high<g ref="char:EOLhyphen"/>ly eſteemed in the Univerſity for his candid behaviour in a comely perſon, for his preg<g ref="char:EOLhyphen"/>nant parts, ready wit, great in<g ref="char:EOLhyphen"/>duſtry, and anſwerable profici<g ref="char:EOLhyphen"/>ency in all kinds of polite lite<g ref="char:EOLhyphen"/>rature which renders a man
+<pb n="3" facs="tcp:169825:4"/>more expedite and exquiſite for any noble employment, and is more eſpecially prepara<g ref="char:EOLhyphen"/>tory and introductory to ſa<g ref="char:EOLhyphen"/>cred Divinity. The fame whereof firſt advanced him to be Rhetorick Reader, and af<g ref="char:EOLhyphen"/>ter Philoſophy Reader in the publick Schools, both which he performed with generall applauſe.</p>
+            <p>Among other his <hi>Juvenilia,</hi> he tranſlated <hi>Virgils Eclog.</hi> the firſt &amp; 2<hi rend="sup">d</hi> Books of his <hi>Aeneid. Juvenals</hi> firſt <hi>Satyre,</hi> and moſt of the memorable ſpeeches in <hi>Virgil</hi> and other Poets. All, arguments of his ingenious ca<g ref="char:EOLhyphen"/>pacity &amp; ingenuous ſufficiency.</p>
+            <p>And, to ſhew that his heart, even in youth, was drawn to<g ref="char:EOLhyphen"/>ward the pole of heaven (from whence his wit was ſanctified) he tranſlated divers Pſalms of <hi>David,</hi> and compoſed ſeverall
+<pb n="4" facs="tcp:169825:5"/>ſacred Hymnes of his own. Some of them he ſung with tears of joy and deſire, in his laſt ſickneſſe; having a ſweet voice and good skill in Muſick.
+<label>His dili<g ref="char:EOLhyphen"/>gent obſer<g ref="char:EOLhyphen"/>ving the beſt Guides.</label> 
+            </p>
+            <p>Moreover, in his younger years he was an aſſiduous hea<g ref="char:EOLhyphen"/>rer, and a great admirer of that admirable <hi>Maſter Perkins,</hi> and a reverent obſerver of all the Worthies of that time, famous in their generations; carefully and ſafely laying up in a faith<g ref="char:EOLhyphen"/>full treaſury what he heard from them. An evident pre<g ref="char:EOLhyphen"/>ſage of his future abilities to become a skilfull Builder in the houſe of God; and a good help to win many ſouls unto Chriſt.</p>
+            <p>
+               <label>His skill in, and im<g ref="char:EOLhyphen"/>provement of tongues.</label> He was accurate in the Greek, and well skilled in the Hebrew and Arabick Tongues, which he ſparingly uſed upon neceſſary occaſions, not for
+<pb n="5" facs="tcp:169825:5"/>oſtentation to amaze ſuch hea<g ref="char:EOLhyphen"/>rers as ſeem to be moſt pleaſed with what they leaſt under<g ref="char:EOLhyphen"/>ſtand; but for the more cleer and full underſtanding and ge<g ref="char:EOLhyphen"/>nuine interpretation of the ho<g ref="char:EOLhyphen"/>ly Scriptures in their divine O<g ref="char:EOLhyphen"/>riginals, whoſe full ſenſe and native elegancies, proper to each Language cannot be al<g ref="char:EOLhyphen"/>ways expreſſed to the life, with<g ref="char:EOLhyphen"/>out recourſe to the fountains.<note place="margin">
+                  <hi>Auguſt. de Vera relig. ca.</hi> 50.</note> 
+               <hi>Habet enim omnis Lingua ſua quaedam propria genera locutio<g ref="char:EOLhyphen"/>num, quae cum in aliam linguam transferuntur, videntur abſurda.</hi>
+            </p>
+            <p>He very well underſtood, and ſpake the Italian, French and Spaniſh Tongues, and had read very many grave and wit<g ref="char:EOLhyphen"/>ty Authors in each of them, whereof his excellent wit made admirable uſe, even in Divini<g ref="char:EOLhyphen"/>ty (which now many illiterate ones moſt audaciouſly and pre<g ref="char:EOLhyphen"/>ſumptuouſly
+<pb n="6" facs="tcp:169825:6"/>defile with unhal<g ref="char:EOLhyphen"/>lowed hearts and unwaſhed hands; he being able by an ho<g ref="char:EOLhyphen"/>ly Alchimy (as was ſaid of <hi>Virgil, Aurum de ſtercore,</hi>) to make every thing ſerve to the power of perſwaſion, that <hi>Sua<g ref="char:EOLhyphen"/>dae medulla,</hi> wherein he excel<g ref="char:EOLhyphen"/>led.</p>
+            <p>
+               <label>His know<g ref="char:EOLhyphen"/>ledge in Hiſtory, Politicks and Phy<g ref="char:EOLhyphen"/>ſick.</label> He likewiſe luſtrated much Hiſtory, Politicks and Phyſick, of all which he ever made good improvements in ampli<g ref="char:EOLhyphen"/>fications, illuſtrations, and in<g ref="char:EOLhyphen"/>ſinuations of more divine ſub<g ref="char:EOLhyphen"/>jects. Every thing furniſhed him with more moving ex<g ref="char:EOLhyphen"/>preſſions of his ſweet notions in prayer and preaching, which made him to <hi>burn</hi> as well as <hi>ſhine,</hi> with greater light and luſtre.</p>
+            <p>
+               <label>His en<g ref="char:EOLhyphen"/>trance in<g ref="char:EOLhyphen"/>to the Mi<g ref="char:EOLhyphen"/>niſtery.</label> While he was yet Fellow of <hi>Emmanuel College,</hi> in a due compliance with the pious Sta<g ref="char:EOLhyphen"/>tutes
+<pb n="7" facs="tcp:169825:6"/>of that Houſe, he entred into the Office of the Miniſte<g ref="char:EOLhyphen"/>ry, <hi>Sept.</hi> 24. 1601. which he took not upon him as a ſhelter to ſave a Fellowſhip, but to gain ſoules to God: To which purpoſe he immediately be<g ref="char:EOLhyphen"/>took himſelf to that Evangeli<g ref="char:EOLhyphen"/>call work of Preaching, at <hi>Caxton</hi> for the moſt part, not farre from <hi>Cambridge,</hi> and in ſome other places thereabout, where (beſide the proſecution of other ſtudies, and perfor<g ref="char:EOLhyphen"/>mance of ſundry exerciſes in the College) he had preached 28 Sermons within the ſpace of eleven Moneths. A rare thing, then, in Fellows of Hou<g ref="char:EOLhyphen"/>ſes, who were more common<g ref="char:EOLhyphen"/>ly hinderers, then furtherers of ſo good a work, if undertaken by younger men.</p>
+            <p>
+               <label>His thank<g ref="char:EOLhyphen"/>fulneſſe.</label> After he was tranſplanted from that Nurſery, and ſetled
+<pb n="8" facs="tcp:169825:7"/>in a Paſtorall imployment, ma<g ref="char:EOLhyphen"/>ny miles diſtant from that Uni<g ref="char:EOLhyphen"/>verſity, to ſhew his thankfull acknowledgement of the ho<g ref="char:EOLhyphen"/>norary ſupports of his breed<g ref="char:EOLhyphen"/>ing, received from thoſe fa<g ref="char:EOLhyphen"/>mous Seminaries, he gave to <hi>Pembroke-Hall</hi> Library, <hi>Great Baſils</hi> works, <hi>Graeco-Lat.</hi> 2 <hi>vol.</hi> in <hi>fol.</hi> with theſe verſes, which <hi>(tanquam ex ungue Leonem)</hi> diſ<g ref="char:EOLhyphen"/>cover a ſpecimen of his happy ſtrayn and genius of purer Po<g ref="char:EOLhyphen"/>etry, as well as thankfulneſſe.
+<q>
+                  <l>Quae mihi formaſti teneros im<g ref="char:EOLhyphen"/>puberis annos</l>
+                  <l>Grandaeva, at gravida ingeni<g ref="char:EOLhyphen"/>is foelicibus, Aula</l>
+                  <l>Penbrochiae, Fas ſit minimo, veneranda, tuorum</l>
+                  <l>Ingentis tenuem officii deponere partem.</l>
+               </q> And, to <hi>Emmanuel College</hi> Li<g ref="char:EOLhyphen"/>brary, he gave all the <hi>Councels Graeco-Lat. Edit, Bin. Fol.</hi> five
+<pb n="9" facs="tcp:169825:7"/>volumes, with theſe Verſes.
+<q>
+                  <l>Sacra <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> &amp; ſtudiis do<g ref="char:EOLhyphen"/>mus hoſpita ſacris</l>
+                  <l>Emmanuel, mihi quae juvenili<g ref="char:EOLhyphen"/>bus arbitracoeptis</l>
+                  <l>Culturam, comites, victum, &amp; gratiſsima Muſis</l>
+                  <l>Otia porrexti! ſic te naſcentia porrò</l>
+                  <l>Foecundam claris mirentur ſae<g ref="char:EOLhyphen"/>cula natis,</l>
+                  <l>Donato ut liceat tantillum red<g ref="char:EOLhyphen"/>dere tantis.</l>
+               </q> And to the Univerſity Libra<g ref="char:EOLhyphen"/>ry he gave all <hi>Greg. Naz.</hi> and <hi>Greg. Niſſ.</hi> works, <hi>Graeco-Lat. fol.</hi> 4 Vol. with theſe Verſes.
+<q>
+                  <l>Accipe parva tui <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> Mater alumni,</l>
+                  <l>Sic te perpetuâ florentem pube, Nepotum</l>
+                  <l>Sera manus, ſophiae lumen, mo<g ref="char:EOLhyphen"/>rúmque Magiſtram,</l>
+                  <l>Artis praeſidium, Britonum de<g ref="char:EOLhyphen"/>cus, orbis amorem,</l>
+                  <pb n="10" facs="tcp:169825:8"/>
+                  <l>Delicias Regum, &amp; fidei vene<g ref="char:EOLhyphen"/>rentur Aſylum.</l>
+               </q>
+            </p>
+            <p>
+               <label>His cal<g ref="char:EOLhyphen"/>ling to <hi>Wrington.</hi>
+               </label> Having thus traced his ways and procedure in the Univerſi<g ref="char:EOLhyphen"/>ty, I ſhall now follow him in<g ref="char:EOLhyphen"/>to the Country. In <hi>Sept.</hi> 1602. he was by the cleer providence of God (without concurrence of the plottings or contrivan<g ref="char:EOLhyphen"/>ces of cunning or infinuating friends) fairly and freely called to a Paſtorall charge of a great Flock at <hi>Wrington,</hi> a market Town in the County of <hi>Som<g ref="char:EOLhyphen"/>merſet,</hi> being preſented there<g ref="char:EOLhyphen"/>unto by that Honourable and famous Knight, Sir <hi>Arthur Ca<g ref="char:EOLhyphen"/>pel</hi> of <hi>Little Hadham</hi> in <hi>Herd<g ref="char:EOLhyphen"/>ford ſhire,</hi> Great Grandfather to the Lord <hi>Capel</hi> now living.</p>
+            <p>
+               <label>His ſet<g ref="char:EOLhyphen"/>ling there.</label> There did he, (in obedience to this Call) forhwith ſettle himſelf, and immediately ſet upon the work for which he was ſent, to inſtruct and turn
+<pb n="11" facs="tcp:169825:8"/>unto righteouſneſſe that great people, who had never before taſted the bleſſing of a preach<g ref="char:EOLhyphen"/>ing Miniſter or miniſtery a<g ref="char:EOLhyphen"/>mong them (which therefore required the greater skill and induſtry of the ſpirituall Huſ<g ref="char:EOLhyphen"/>bandman to manure and ma<g ref="char:EOLhyphen"/>nage ſuch an uncultured plot.) So that he was to them (if not to the whole Country adja<g ref="char:EOLhyphen"/>cent) the firſt that by preach<g ref="char:EOLhyphen"/>ing of the Goſpel, brought re<g ref="char:EOLhyphen"/>ligion into notice and credit, and diſcovered the heavenly Canaan before, to moſt of them, a <hi>Terra incognita,</hi> and thereby left them much richer both in ſpirituals and tempo<g ref="char:EOLhyphen"/>rals: in ſo much that he might at length, in a proportion, ſay of that place as once <hi>Auguſtus</hi> of Rome; <hi>Lateritiam reperi, marmoream reliqui.</hi>
+            </p>
+            <p>
+               <label>His Mo<g ref="char:EOLhyphen"/>deration.</label> Having thus pitched &amp; fix<g ref="char:EOLhyphen"/>ed
+<pb n="12" facs="tcp:169825:9"/>his Paſtorall ſtaffe, as he ne<g ref="char:EOLhyphen"/>ver ſought higher, or other earthly preferments, (though his capacity and credit to at<g ref="char:EOLhyphen"/>tain greater things were well known to be great) ſo he ne<g ref="char:EOLhyphen"/>ver accepted of any additions, or acceſſions of maintenance or honour, although honourably proffered by Perſons able to advance him.</p>
+            <p>
+               <label>The courſe of his Mi<g ref="char:EOLhyphen"/>niſtery.</label> Touching the courſe of his Miniſtery and carriage; his pro<g ref="char:EOLhyphen"/>ceedings were correſpondent to his beginnings; yea, his workes moſt and beſt at laſt. For, as he preached, ſo he pra<g ref="char:EOLhyphen"/>ctiſed: His whole life being but one continued Commen<g ref="char:EOLhyphen"/>tary upon his Doctrine, and an exemplary Sermon, conſiſting of living words, or of words tranſlated into works, as I ſhall further ſhew in due place.</p>
+            <p>Few men ever came into a
+<pb n="13" facs="tcp:169825:9"/>place with greater expectation, which yet he not only ſatisfied, but exceeded. Few men could draw after them that affection and admiration, which yet were deſervedly increaſed rather then diminiſhed, even to his laſt, among all that had learned Chriſt in humility and truth.</p>
+            <p>
+               <label>His beha<g ref="char:EOLhyphen"/>viour to the ſedu<g ref="char:EOLhyphen"/>ced.</label> And as for thoſe few ſilly ſe<g ref="char:EOLhyphen"/>duced ones that being carryed away by a Spirit of giddineſſe through the ſecret and ſubtile inſinuations and whiſperings of falſe Teachers in corners (who with as much ignorance as con<g ref="char:EOLhyphen"/>fidence, lowbell the ſimple by portentous words and phraſes abhorrent from chriſtian religi<g ref="char:EOLhyphen"/>on, ſobriety &amp; truth, and which wiſe men lament, while fools, ignorant of the depths and me<g ref="char:EOLhyphen"/>thods of Satan, applaud and admire) towards his laſt, en<g ref="char:EOLhyphen"/>deavoured in their vertiginous
+<pb n="14" facs="tcp:169825:10"/>fits, to eclipſe his ſplendor; yet his pious and affectionate Eſſays to reclaim them with the ſpirit of meekneſſe, and his fervent prayers, and yearning bowels for their reducing, tur<g ref="char:EOLhyphen"/>ned all their revilings to his greater luſtre and glory among all that were able to <hi>diſcern of things that differ,</hi> and willing to <hi>approve the things that are ex<g ref="char:EOLhyphen"/>cellent.</hi>
+            </p>
+            <p>
+               <label>His Mar<g ref="char:EOLhyphen"/>riage.</label> Not long after his firſt ſetling in his charge, he happily marri<g ref="char:EOLhyphen"/>ed a wife of his own Tribe, &amp; heart, the eldeſt daughter of that Reverend <hi>M. Walſh,</hi> a ho<g ref="char:EOLhyphen"/>ly Miniſter in <hi>Suffolke,</hi> a great and rare Light in his time, and famous for his miniſteriall la<g ref="char:EOLhyphen"/>bours; his fervent zeal, and a<g ref="char:EOLhyphen"/>bundant charity. She was a very prudent and gratious wo<g ref="char:EOLhyphen"/>man, a moſt loyall, loving and tender wife, zealous and active
+<pb n="15" facs="tcp:169825:10"/>for his incouragement, credit &amp; comfort in all things, eſpecial<g ref="char:EOLhyphen"/>ly in his miniſtery, to which ſhe conſtantly and cordially bore ſo much reſpect and reve<g ref="char:EOLhyphen"/>rence as did much quicken and inlarge him in the work of the Lord, and was continually ſtudious and carefull to eaſe and free him of all emergent avocations and buſineſſes of ordinary concernment, that he might more freely follow (what his ſoul moſt delighted in) his diviner imployments, and himſelf and friends, in his neceſſary relaxations. In a word her <hi>behaviour</hi> was, and ſtill is, ſuch <hi>as becometh holineſs, a teacher of good things</hi> to the younger women, and to her fa<g ref="char:EOLhyphen"/>mily a worthy pattern, and a great promoter of godlineſſe in all that converſed with her, and to her husband, a meet helper
+<pb n="16" facs="tcp:169825:11"/>indeed, all the days of their conjugall relation. Children he left none, beſide thoſe ſpiri<g ref="char:EOLhyphen"/>tually begotten unto Chriſt by the Goſpel.</p>
+            <p>
+               <label>His prin<g ref="char:EOLhyphen"/>ted works.</label> The iſſues of his brain and heart made publick were onely theſe: firſt, that exquiſite and accurate <hi>Guide to true bleſſedneſs,</hi> (ſo often re-printed, and ſo highly eſteemed by all that read it through with underſtan<g ref="char:EOLhyphen"/>ding and care.) Then, (at ſeve<g ref="char:EOLhyphen"/>rall times) he gave way to the printing of four occaſional and ſelect Sermons, <hi>viz. The Wa<g ref="char:EOLhyphen"/>king Sleeper,</hi> The <hi>Miniſteriall husbandry, The diſcovery of the Heart,</hi> and <hi>Death ſubdued.</hi>
+            </p>
+            <p>
+               <label>His Cha<g ref="char:EOLhyphen"/>racters ne<g ref="char:EOLhyphen"/>ver finiſh<g ref="char:EOLhyphen"/>ed</label> That wherein he had taken moſt pains, (which yet never ſaw the light) was an excellent Treatiſe, wherein his main de<g ref="char:EOLhyphen"/>ſign, in very appoſite, and a<g ref="char:EOLhyphen"/>cutely diſtinguiſhing <hi>Chara<g ref="char:EOLhyphen"/>cters,</hi>
+               <pb n="17" facs="tcp:169825:11"/>was, to lay open not thoſe more apparent and obvious contrarieties of virtues in holy, and vices in wicked men, evi<g ref="char:EOLhyphen"/>dent to ordinary capacities up<g ref="char:EOLhyphen"/>on the firſt aſpect; but the more hidden and leſſe diſcerned dif<g ref="char:EOLhyphen"/>ferences between the plauſibly<g ref="char:EOLhyphen"/>ſeeming virtues of evil men, and the reall graces of the tru<g ref="char:EOLhyphen"/>ly godly; as likewiſe between the raigning ſins of hypocrites, and the dayly infirmities of the Saints, which many times, e<g ref="char:EOLhyphen"/>ven by quick-ſighted ſpecta<g ref="char:EOLhyphen"/>tors, are both miſtaken.</p>
+            <p>
+               <label>His courſe held there<g ref="char:EOLhyphen"/>in.</label> In proſecution whereof, he, firſt, brings forth the hypo<g ref="char:EOLhyphen"/>crite in his beſt dreſſe and at<g ref="char:EOLhyphen"/>tire, and then ſets by him are<g ref="char:EOLhyphen"/>generate man living up to his Rule; adding the differences be<g ref="char:EOLhyphen"/>tween them, thereby to un<g ref="char:EOLhyphen"/>mask the hypocrite, and to de<g ref="char:EOLhyphen"/>tect his incroachments upon
+<pb n="18" facs="tcp:169825:12"/>the name and privileges of the Saints. Secondly, he ſetteth out a true child of God, labou<g ref="char:EOLhyphen"/>ring under infirmities, and an hypocrite under the power of ſin, (which cannot conſiſt with ſaving grace) notwithſtanding all his flouriſhes, that ſo, he may clearly diſtinguiſh a Chri<g ref="char:EOLhyphen"/>ſtian in <hi>black,</hi> from a counter<g ref="char:EOLhyphen"/>feit in <hi>white;</hi> and, between the bewailed weakneſſes of the Saints, and the wilfull wander<g ref="char:EOLhyphen"/>ings of the wicked.</p>
+            <p>
+               <label>Cauſes of not publi<g ref="char:EOLhyphen"/>ſhing it.</label> A work no leſſe needfull to all, then gratefull to the ſoul<g ref="char:EOLhyphen"/>ſound ſelf-ſearching Chriſtian, that labours after ſincerity, and the aſſurance of it. But the in<g ref="char:EOLhyphen"/>iquity of the times, full of hy<g ref="char:EOLhyphen"/>pocriſie and Atheiſm, hating and hindring ſuch diſcoveries, and by all means diſcouraging thoſe that would make them, (together with the Authors
+<pb n="19" facs="tcp:169825:12"/>conſtant imployment, even un<g ref="char:EOLhyphen"/>to the impairing of his ſtrength and ſpirits in feeding his Flock) diſabled him from finiſhing, and diſappointed the Church from enjoying the benefit of that admirable piece.</p>
+            <p>For, the Eagle eyed Author quickly diſcerning what ob<g ref="char:EOLhyphen"/>ſtructions way-laid the publi<g ref="char:EOLhyphen"/>cation, not onely of that Trea<g ref="char:EOLhyphen"/>tiſe, but of what ever elſe ten<g ref="char:EOLhyphen"/>ded to the power of godlineſſe (whereunto his ſanctified Ge<g ref="char:EOLhyphen"/>nius chiefly led him) he not without deep grief, and loſſe to us all, laid it, and all thoughts of publiſhing that, or ought elſe aſide, and applyed himſelf wholly to that moſt Apoſtoli<g ref="char:EOLhyphen"/>call work of preaching and prayer; leaving onely ſome draughts (imperfect for the Preſſe) of thoſe rare concepti<g ref="char:EOLhyphen"/>ons of his excellent ſpirit,
+<pb n="20" facs="tcp:169825:13"/>wherein he ſo far tranſcended, that it is very hard (if not im<g ref="char:EOLhyphen"/>poſſible) to draw a line parallel to his. And ſhould any under<g ref="char:EOLhyphen"/>take it, he is not likely to re<g ref="char:EOLhyphen"/>ceive other guerdon, then they who have aſſayed to piece up <hi>Virgils</hi> verſes which himſelf left unfiniſhed.</p>
+            <p>
+               <label>Sundry o<g ref="char:EOLhyphen"/>other things pre<g ref="char:EOLhyphen"/>pared by him.</label> I mention not here (more then the names) ſundry other iſſues of his fertile and excel<g ref="char:EOLhyphen"/>lent wit and curious invention, never publiſhed, <hi>viz.</hi> divers choyce and ſacred <hi>Aphoriſms, Anatomica, Noſognoſtica, Patho<g ref="char:EOLhyphen"/>logica, Therapeutica, Phyſiologica; Prophylactica;</hi> as alſo, divers di<g ref="char:EOLhyphen"/>vine Emblems &amp; ſimilitudes; all eminent demonſtrations of his exquiſite abilities, &amp; profi<g ref="char:EOLhyphen"/>table improvements of them.</p>
+            <p>And, ſhall God vouchſafe to reſtore peace to his afflicted Churches, and thereby more
+<pb n="21" facs="tcp:169825:13"/>comfort and incouragement to her mourners, ſome things of his (although <hi>orba parente ſuo</hi>) may, perhaps be ſent abroad to quiet, if not ſatisfie thoſe who loved the Author and what ever was his, and knew both his labours and intentions therein.</p>
+            <p>
+               <label>His fre<g ref="char:EOLhyphen"/>quent and elaborate preaching.</label> His great delight and inde<g ref="char:EOLhyphen"/>fatigable pains in preaching, ſo many years was almoſt beyond all example. He conſtantly preached (if in health) thrice a week beſides his extraordinary labours on many emergent oc<g ref="char:EOLhyphen"/>caſions, which he cheerfully embraced as joying in all op<g ref="char:EOLhyphen"/>portunities of doing good a<g ref="char:EOLhyphen"/>broad as well as at home.</p>
+            <p>In all his Sermons, (which were many thouſands) his ex<g ref="char:EOLhyphen"/>preſſions were choice, grave, ſolid, weighty, ſavory, and ſea<g ref="char:EOLhyphen"/>ſonable; his applications home, and pertinent, ſtrongly ſet on
+<pb n="22" facs="tcp:169825:14"/>from divine authority by a ſweet and moving elocution, a maſculine eloquence, fervent zeal, and ſtrength of love to the ſouls of his hearers.</p>
+            <p>
+               <label>His excel<g ref="char:EOLhyphen"/>lent me<g ref="char:EOLhyphen"/>thod, ſuta<g ref="char:EOLhyphen"/>ble to the ſubject.</label> He very well knew how to ſet forth, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, abſtruſe points plainly, and how to ma<g ref="char:EOLhyphen"/>nage <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, plain truths elegantly; <hi>not in the words of mans wiſdome, but which the Ho<g ref="char:EOLhyphen"/>ly Ghoſt teacheth:</hi> always <hi>ſpea<g ref="char:EOLhyphen"/>king in Chriſt, as of God, in the ſight of God.</hi>
+            </p>
+            <p>He was not like one that makes a feaſt, once a moneth, or quarter, letting his family beg, or ſtarve in the intervalls; nor like him that viſits the Pulpit twice every Sabbath, yet brings no new matter with him ſcarſe once a moneth, but ſtill ſetting on the ſame diſhes with a little new garniſh, even unto nauſeouſneſſe. But he, as
+<pb n="23" facs="tcp:169825:14"/>he was rich in laying in, ſo was he plentifull and wiſe in laying out, like a ready Scribe <hi>inſtru<g ref="char:EOLhyphen"/>cted to the Kingdome of God,</hi> or, <hi>a good houſholder, bringing forth of his Treaſury things both new and old.</hi>
+            </p>
+            <p>And albeit, he could by his quick invention, profound judgement, and faithfull me<g ref="char:EOLhyphen"/>mory, (things rarely meeting in the ſame man) dextrouſly diſpatch that with little labor, which coſts other men much; yet he ſeriouſly profeſſed with rejoycing, that he never durſt to ſerve God with that which coſt him nothing; knowing that diligence addes weight and reſpect both to the matter and ſpeaker, whereby his <hi>words</hi> became <hi>goads, and nayls faſtened by</hi> that great <hi>Maſter of the Aſ<g ref="char:EOLhyphen"/>ſembly, which are given from one ſhepheard.</hi>
+            </p>
+            <pb n="24" facs="tcp:169825:15"/>
+            <p>
+               <label>His Mot<g ref="char:EOLhyphen"/>to.</label> His Motto was, <hi>Impendam, &amp; Expendar</hi> (I will ſpend and be ſpent) which he cheerfully verified; For, he counted not his life dear, in compariſon of preaching the Goſpel, <hi>and of fi<g ref="char:EOLhyphen"/>niſhing</hi> his <hi>courſe with joy, and the Miniſtery he had received from the Lord Jeſus, to teſtifie the Goſpel of the grace of God.</hi> Be<g ref="char:EOLhyphen"/>ing told by his Phyſitian (deſi<g ref="char:EOLhyphen"/>rous to preſerve him) that he might live longer, if he preach<g ref="char:EOLhyphen"/>ed leſſe; Alas! ſaid he, <hi>If I may not labour, I cannot live, what good will life do me, if I be hin<g ref="char:EOLhyphen"/>dred from the end of living?</hi>
+            </p>
+            <q>Et propter vitam vivendi per<g ref="char:EOLhyphen"/>dere cauſam?</q>
+            <p>
+               <label>His perſe<g ref="char:EOLhyphen"/>verance in his work.</label> When age and weakneſſe denyed him ſtrength to travell abroad, any more to perfume other Congregations with the ſweet odours of his pretious ointment, and when, for his
+<pb n="25" facs="tcp:169825:15"/>years and infirmities he might well (as an <hi>emeritus miles</hi>) ſue out even in the Court of Hea<g ref="char:EOLhyphen"/>ven it ſelf) his Writ of Eaſe, and paſſe the reſt of his days in rejoycing over his Trophees and Triumphes; yet would he never give over ſtudying and preaching, till all ſtrength of body gave over him. Yea, he often preached (even when his legs almoſt refuſed to carry him any more to the Church) with much ſpirit, and unexpe<g ref="char:EOLhyphen"/>cted vivacity, as a mighty man refreſhed with the wine of the Spirit of God. And being, ſome years before his depar<g ref="char:EOLhyphen"/>ture, ſenſible of the dayly ap<g ref="char:EOLhyphen"/>proaches of death (which he long expected) to his ſpent and decayed body ready to be de<g ref="char:EOLhyphen"/>ſerted of his divine ſoul, he hath ſeverall times preached his own Funerall Sermon (as
+<pb n="26" facs="tcp:169825:16"/>ſuppoſing he ſhould preach no more) not without the ſorrow and tears of his loving and be<g ref="char:EOLhyphen"/>loved hearers.</p>
+            <p>And when after ſuch prea<g ref="char:EOLhyphen"/>ching, and rejoycing in it, he invited (as his conſtant manner was) ſuch Miniſters and friends as came to hear him, to his Table; he would force himſelf to ſit with them (although for the moſt part, ſilently, by reaſon of the ex<g ref="char:EOLhyphen"/>pence of his ſpirits) and much rejoyce that he had once more imployed his Maſters talent, and enjoyed the pretious ſocie<g ref="char:EOLhyphen"/>ty of Saints, in whom was all his delight.</p>
+            <p>To his friends at ſuch times rejoycing with him, and bleſ<g ref="char:EOLhyphen"/>ſing God for him, he would often ſay, <hi>I am nothing but a voyce,</hi> as troubled at the grow<g ref="char:EOLhyphen"/>ing decays of nature more and
+<pb n="27" facs="tcp:169825:16"/>more diſabling him from ſer<g ref="char:EOLhyphen"/>ving his ſtill active ſoul, un<g ref="char:EOLhyphen"/>leſſe with an enfeebled tongue no longer able to ſpeak out, and ſo often, as he would have it.</p>
+            <p>
+               <label>What he ſhunned in his Mi<g ref="char:EOLhyphen"/>niſtery.</label> In his Miniſtery he never flew at vain glory, nor of men ſought he praiſe, diſdaining to ſtoop at the lure of popular ap<g ref="char:EOLhyphen"/>plauſe: Therefore he ever ſhun<g ref="char:EOLhyphen"/>ned thoſe more gay and ligh<g ref="char:EOLhyphen"/>ter flouriſhes of a luxuriant wit, (which, like glorious weeds good for ſhew at a diſtance, ſtink neerer hand) wherewith the emptyeſt Cells affect to be moſt fraught, as they who for want of wares in their ſhops, ſet up painted blocks, to fill up vacant ſhelves. He fed not his flock with airy dews of effe<g ref="char:EOLhyphen"/>minate Rhetorick (which a maſculine Orator would ſhake off from his lips and pen, as
+<pb n="28" facs="tcp:169825:17"/>
+               <hi>Paul</hi> the Viper from his hand) nor yet with the jerkes and quibbles of a light ſpirit, which he ever abhorred as the excre<g ref="char:EOLhyphen"/>mentitious ſuperfluities of fro<g ref="char:EOLhyphen"/>thy braines, and unhallowed hearts, but he ever led them out into the green paſtures of ſolid and favoury Truths; as their neceſſities and capacities did require. He had, (&amp; admi<g ref="char:EOLhyphen"/>niſtred) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>rational, unadulterated milk</hi> for <hi>babes</hi> in Chriſt, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp; ſtrong meat</hi> for <hi>men.</hi>
+            </p>
+            <p>
+               <label>What foundati<g ref="char:EOLhyphen"/>on he laid, and what points he handled.</label> He was a wiſe Maſter buil<g ref="char:EOLhyphen"/>der, who intending to raiſe a beautifull and ſtately Fabrick, laid a ſolid foundation ſuffici<g ref="char:EOLhyphen"/>ent to bear and ſtrengthen all his ſuperſtructures. Therefore he began his Miniſtery with a nervous and perſpicuous hand<g ref="char:EOLhyphen"/>ling of ſuch Texts as might diſ<g ref="char:EOLhyphen"/>cover
+<pb n="29" facs="tcp:169825:17"/>to his people the divine authority, ſufficiency, purity and energy of the holy Scri<g ref="char:EOLhyphen"/>ptures, the Decalogue, Arti<g ref="char:EOLhyphen"/>cles of Faith, Lords Prayer, Sacraments, God in Trinity, His Decrees, Creation, Provi<g ref="char:EOLhyphen"/>dence, the Fall, Sinne, Chriſt, the New Covenant, the Me<g ref="char:EOLhyphen"/>diator, the Goſpel, Faith, Cal<g ref="char:EOLhyphen"/>ling, Regeneration, Juſtificati<g ref="char:EOLhyphen"/>on, Adoption, Sanctification, Glorification, the Church, the laſt judgement, the Chriſtian Warfare, and ſuch like: all which, in tract of time, he open<g ref="char:EOLhyphen"/>ed and applyed, ſometimes more largely, ſometimes more ſuccinctly, but always profita<g ref="char:EOLhyphen"/>bly and ſweetly; <hi>as a workman that needeth not to be aſhamed, but rightly dividing the word of truth</hi> in a practicall way.</p>
+            <p>
+               <label>His Guide, and leſſer Catechiſm extracted out of them.</label> Out of all which, in his more mature years, greateſt ſtrength
+<pb n="30" facs="tcp:169825:18"/>of parts, and depth of judge<g ref="char:EOLhyphen"/>ment, he, (after many ſerious reviews) compiled that excel<g ref="char:EOLhyphen"/>lently compacted Syſteme of Divinity in a Catecheticall way, which he deſervedly inti<g ref="char:EOLhyphen"/>tuled, <hi>The Guide to true Bleſſed<g ref="char:EOLhyphen"/>neſſe,</hi> mentioned before. And out of it, he again extracted that <hi>Leſſer Catechiſm</hi> which he often uſed, with very profitable and delightfull explanations, both in his Church and Fami<g ref="char:EOLhyphen"/>ly: a moſt profitable courſe of teaching and learning the true knowledge of Chriſt.</p>
+            <p>
+               <label>Entire Scriptures handled by him.</label> He went alſo through many intire Scriptures (which is both a good trying, and great im<g ref="char:EOLhyphen"/>proving of a Divine) and the more obſcure any place was, the greater his diligence, with happy ſucceſſe, to bring light unto it. Difficulties which are Lions in the way of the ſlug<g ref="char:EOLhyphen"/>gard,
+<pb n="31" facs="tcp:169825:18"/>became ſpurres to his in<g ref="char:EOLhyphen"/>duſtry.</p>
+            <p>He handled all the 1.2.4.6.10.14.19.22.45.50.122.127. <hi>Pſalmes,</hi> the twelve firſt cha<g ref="char:EOLhyphen"/>pters of <hi>Iſaiah, Lam.</hi> 3. <hi>Hab.</hi> 3. the Propheſie of <hi>Malachi, Mat.</hi> 5.6.7. All the examples both of good and bad men in the Scriptures, for imitation of thoſe, deteſtation of theſe: all the Miracles and Parables of Chriſt, all <hi>Johns</hi> Goſpel, (an admirable Commentary) <hi>Rom.</hi> 12. <hi>Epheſ.</hi> 2. <hi>Col.</hi> 2. and 3. 2 <hi>Theſſ.</hi> 2. <hi>Heb.</hi> 11. <hi>Rev.</hi> 2 &amp; 3. <hi>chapters,</hi> with many more, be<g ref="char:EOLhyphen"/>fides very many Texts <hi>De tem<g ref="char:EOLhyphen"/>pore,</hi> on every occaſion, being exceeding happy in the choyce and proſecution of them.</p>
+            <p>
+               <label>His humi<g ref="char:EOLhyphen"/>lity.</label> Whenſoever his preaching day happened upon <hi>Jan.</hi> 17. (which was his birth-day) he ſtill noted his years complete,
+<pb n="32" facs="tcp:169825:19"/>with this penitential Epipho<g ref="char:EOLhyphen"/>nema, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>(God be mercifull to me a ſinner)</hi> a memorable evidence of his pious ſenſe of his own unworthineſſe in the ſight of God, how much ſoever cryed up, and eſteemed by men. No excellency of naturall abilities, no eminency of ſpirituall en<g ref="char:EOLhyphen"/>dowments, no acceptation of his labours, ever puffed him up, but he ſtill walked in all lowli<g ref="char:EOLhyphen"/>neſſe and humility towards all, in his greateſt exaltations in the hearts of men.</p>
+            <p>
+               <label>His Cate<g ref="char:EOLhyphen"/>chiſing.</label> Much might be ſaid of his long continued courſe of Ca<g ref="char:EOLhyphen"/>techiſing, (that moſt profita<g ref="char:EOLhyphen"/>ble and ſpeedy way of implan<g ref="char:EOLhyphen"/>ting knowledge) by which he hath ſet up ſo great and clear a light in his Congregation, as will not onely diſcover the ex<g ref="char:EOLhyphen"/>cellency of the workman, and
+<pb n="33" facs="tcp:169825:19"/>guide their feet in the ways of truth and holineſſe who have been illightned thereby; but, much facilitate the further do<g ref="char:EOLhyphen"/>lation and poliſhing of thoſe living ſtones by ſucceeding builders.</p>
+            <p>
+               <label>His pray<g ref="char:EOLhyphen"/>ers.</label> His divine ſpirit of prayer ſee med to excell all other his excellencies: I appeal to the hearts of all that heard him in publick or private, and ever knew what a prayer of faith, e<g ref="char:EOLhyphen"/>levated to the higheſt by the holy Ghoſt, meaneth, whether they ever found any to excell him; or many to come neer him. O! thoſe penitent un<g ref="char:EOLhyphen"/>bowelling confeſſions, earneſt deprecations, petitions, pan<g ref="char:EOLhyphen"/>ting longings and ſighings af<g ref="char:EOLhyphen"/>ter God and his grace, thoſe mighty Arguments whereby he ſet all home, feeling thankſ<g ref="char:EOLhyphen"/>givings, and divine raptures,
+<pb n="34" facs="tcp:169825:20"/>carrying up his ſoul to heaven in the ſacred flames of his own ſacrifices; ſweetly perfumed with the incenſe of Him, who preſenteth all the prayers of his Saints on the Altar of Grace?</p>
+            <p>
+               <label>Concei<g ref="char:EOLhyphen"/>ved prayer.</label> He firſt brought conceived Prayer into uſe in thoſe parts, wherein he was ſo happy, ſo free from impertinent expreſ<g ref="char:EOLhyphen"/>ſions, &amp; vain repetitions, ſo rich in piercing ſupplications, patheticall thankſgivings, and gratious wreſtlings with the Almighty; ſo dextrous to ap<g ref="char:EOLhyphen"/>ply himſelf to preferre all ſuits, and to fit every occaſion (like an exquiſite Archer, able to ſhoot at an hayrs breadth) and ſo prompt and full in expreſ<g ref="char:EOLhyphen"/>ſing the very hearts of thoſe that indeed joyned with him, in whatſoever they deſired for themſelves or others, as if by a
+<pb n="35" facs="tcp:169825:20"/>kind of tranſmigration, their ſoules had entred into his, and ſpake the very bottome of their hearts by his tongue, w<hi rend="sup">ch</hi> their own could not utter.</p>
+            <p>And this was ſuch an open<g ref="char:EOLhyphen"/>ing and warming of his hearers hearts before his Sermons, and ſuch a ſweet cloſing up of all after his preaching, as added much to the power and profit of all his labours, and was to him a tranſcendent advantage in his whole Miniſtery. And ve<g ref="char:EOLhyphen"/>rily, his pattern took ſo well with all godly Miniſters that heard him, that they accounted it their great happines and ho<g ref="char:EOLhyphen"/>nour to imitate him (with whom very few could keep pace) in that moſt important part of a Miniſters office, whereby they might be more able to powr out their ſoules, and the ſouls of their people,
+<pb n="36" facs="tcp:169825:21"/>into the very boſome of the Almighty.</p>
+            <p>
+               <label>The time of his con<g ref="char:EOLhyphen"/>tinuance in his charge.</label> In this Orbe of his publick Miniſtery, this fixed ſtarre ſhined brightly (without the leaſt eclipſe, or retrograde mo<g ref="char:EOLhyphen"/>tion) ſomewhat above forty ſeven years. A long time for ſuch a lamp to burn, as he did; but a fair opportunity of bring<g ref="char:EOLhyphen"/>ing many ſtraggling ſheep into Chriſts fold, and worthy only of ſuch a ſhepheard. Once in<g ref="char:EOLhyphen"/>deed the laſt B<hi rend="sup">p</hi> of that Dioceſs gave a ſtop to his Tueſday Le<g ref="char:EOLhyphen"/>cture, but God ſet it on going again, and caſt him that did it out of his place, while this painfull labourer went on with his work: <hi>Sed manus de tabula.</hi> I intended onely a ſhort ab<g ref="char:EOLhyphen"/>ſtract, not a volume of his life, I forbear therefore to ſpeak more of his publick Miniſtery, and reſolve to cloſe up all with
+<pb n="37" facs="tcp:169825:21"/>a few obſervations of his pri<g ref="char:EOLhyphen"/>vate carriage.</p>
+            <p>
+               <label>His exem<g ref="char:EOLhyphen"/>plary con<g ref="char:EOLhyphen"/>verſation abroad.</label> His whole life was exemplary. Take him as a Chriſtian, raiſed by his miniſteriall function to a Beacon height, his ſmell was very fragrant. He not onely kept himſelf pure and unſpot<g ref="char:EOLhyphen"/>ted of the world, but his light ſo ſhined, that both good men glorified God by ſeeing his good works, and wicked and fooliſh men had their mouths ſtopped by his good converſation in Chriſt, and were even enforced to give te<g ref="char:EOLhyphen"/>ſtimony to it, maugre their ma<g ref="char:EOLhyphen"/>lice againſt his holineſſe and worth.</p>
+            <p>
+               <label>In his Fa<g ref="char:EOLhyphen"/>mily.</label> In his family, towards the wife of his boſome, he walked <hi>as a man of knowledge,</hi> wiſdom, and great tenderneſſe of love; towards the reſt, as <hi>David, Pſ.</hi> 101. and as a Biſhop of <hi>Pauls</hi>
+               <pb n="38" facs="tcp:169825:22"/>deſcription, 1 <hi>Tim.</hi> 3. and <hi>Tit.</hi> 1. And towards all, as a worthy pattern of love, zeal, humility, meekneſſe, temperance, pati<g ref="char:EOLhyphen"/>ence, gravity, and of every good work.</p>
+            <p>
+               <label>His dili<g ref="char:EOLhyphen"/>gence in ſtudy.</label> What his conſtancy and di<g ref="char:EOLhyphen"/>ligence was in his ſtudy, the fruits of the great and long tra<g ref="char:EOLhyphen"/>vell of his mind, his Workes, (which praiſe him in all the gates of Sion) do ſpeak to all the world beyond all my pen can reach. I muſt ſay no more of this, becauſe when I have ſaid all I can, I cannot ſay ſo much as his own induſtry ſpeaks.</p>
+            <p>
+               <label>His Diſ<g ref="char:EOLhyphen"/>courſes.</label> In his more vacant houres, he was farre from being idle, or unprofitable: ſuch as had the happineſſe (which was never denyed to any) to partake of his private diſcourſes never re<g ref="char:EOLhyphen"/>turned empty from his full
+<pb n="39" facs="tcp:169825:22"/>Magazin, if they brought veſ<g ref="char:EOLhyphen"/>ſels capable of the overflow<g ref="char:EOLhyphen"/>ings of his rich mind and heart. How many excellent lights in the Church have lighted their torches at his celeſtiall fire! How many young Scholars have been marvellouſly impro<g ref="char:EOLhyphen"/>ved by his prudent and pious directions, and incourage<g ref="char:EOLhyphen"/>ments in their ſtudies, and are now become excellent inſtru<g ref="char:EOLhyphen"/>ments in the Churches of Chriſt!</p>
+            <p>If after his preaching he found no mention of his Ser<g ref="char:EOLhyphen"/>mon, by which he might pro<g ref="char:EOLhyphen"/>bably collect ſome benefit had been reaped from it, he would be much dejected, as if the fault had been in his preaching, (even when he had moſt excel<g ref="char:EOLhyphen"/>led) rather then in his hearers; and would ſay, that if he had preached better, they would
+<pb n="40" facs="tcp:169825:23"/>have profited more.</p>
+            <p>
+               <label>His readi<g ref="char:EOLhyphen"/>neſs to ad<g ref="char:EOLhyphen"/>miniſter to all in ſpi<g ref="char:EOLhyphen"/>rituals.</label> If any Chriſtians came to him for reſolution in Caſes of Conſcience, for counſell in ſtraits, for comfort in ſpiritu<g ref="char:EOLhyphen"/>all deſertions, for healing of a wounded ſpirit; as God had gi<g ref="char:EOLhyphen"/>ven him an excellent ſpirit of diſcerning, to judge of their condition, and of the moſt ſea<g ref="char:EOLhyphen"/>ſonable applicatives; and an exquiſite dexterity to ſpeak a word in ſeaſon to the weary ſoul; ſo, he never was ſhy, coy, or difficult to be ſpoken with, nor ſupercilious to any to whom he gave acceſſe, but ſhewed forth all tenderneſſe, pity, and compaſſion, heard them fully and patiently, and wiſely adminiſtred to their ſe<g ref="char:EOLhyphen"/>verall diſtreſſes, and ever ſent them away (as <hi>Titus Veſpaſian,</hi> his ſuitors) not onely not grie<g ref="char:EOLhyphen"/>ved, but very well ſatisfied,
+<pb n="41" facs="tcp:169825:23"/>and abundantly comforted.</p>
+            <p>
+               <label>His boun<g ref="char:EOLhyphen"/>ty and cha<g ref="char:EOLhyphen"/>rity.</label> He was bountifull to his kin<g ref="char:EOLhyphen"/>red that needed, and then moſt when their neceſſities ſwelled higheſt. He was very charita<g ref="char:EOLhyphen"/>ble and liberall to the poor members of Jeſus Chriſt; and albeit his charity ſhined moſt towards thoſe of his own flock, yet was it not ſhut up from ſtrangers, but very large to them alſo, as he found oc<g ref="char:EOLhyphen"/>caſion. Yea, when he went a<g ref="char:EOLhyphen"/>broad to beſtow a free Goſpel on other Congregations adja<g ref="char:EOLhyphen"/>cent, ſuch poor as he found to be hearers (unleſſe they were known to him to take up hear<g ref="char:EOLhyphen"/>ing as a cloak to cover their i<g ref="char:EOLhyphen"/>dleneſſe and neglect of their callings) never went home em<g ref="char:EOLhyphen"/>pty handed, but he always war<g ref="char:EOLhyphen"/>med them with his bounty, as well as inſtructed them with his doctrine.</p>
+            <pb n="42" facs="tcp:169825:24"/>
+            <p>
+               <label>His Ho<g ref="char:EOLhyphen"/>ſpitality.</label> How much he was given to hoſpitality, Gentlemen, Mini<g ref="char:EOLhyphen"/>ſters, Neighbours, Strangers and the poor muſt needs give in ſuch an ample teſtimony, as will hardly be credited by ſuch as knew him not, and are ſtran<g ref="char:EOLhyphen"/>gers to a bountifull heart. He ſpared from himſelf to admini<g ref="char:EOLhyphen"/>ſter unto others; minding more the wooing of many to receive benefit by his Miniſte<g ref="char:EOLhyphen"/>ry (ſome of which might per<g ref="char:EOLhyphen"/>haps at firſt follow him for the loaves) then to lay up largely for ſuch as he ſhould leave be<g ref="char:EOLhyphen"/>hind him; and chuſing rather to be at continual charge to in<g ref="char:EOLhyphen"/>courage men by his bounty, then to ſuffer them to be un<g ref="char:EOLhyphen"/>provided, when they came to partake of his miniſtery.</p>
+            <p>
+               <label>His im<g ref="char:EOLhyphen"/>provement by conver<g ref="char:EOLhyphen"/>ſing.</label> If he converſed with Mini<g ref="char:EOLhyphen"/>ſters, his humility uſually put him into the place of a learner:
+<pb n="43" facs="tcp:169825:24"/>but, in learning he taught, and in teaching, he learned. He was ſo good a Chymick, that he ſeldome parted with ſuch com<g ref="char:EOLhyphen"/>pany, till he had gotten ſome<g ref="char:EOLhyphen"/>what by them: yet were they ſure to be the greateſt gainers: and then did he account it the beſt bargain when others got moſt by him.</p>
+            <p>
+               <label>His hea<g ref="char:EOLhyphen"/>ring of others.</label> His continuall preaching ſel<g ref="char:EOLhyphen"/>dome allowed him the much deſired benefit of hearing others; when he could have opportunity, he greedily layd hold on it; and then would this Bee gather hony from e<g ref="char:EOLhyphen"/>very flower, make good uſe of the meaneſt gifts, and improve his own rich talent by dipping it into theirs. Nor was he e<g ref="char:EOLhyphen"/>ver heard to ſlight or diſparage any the labours of the leaſt of his brethren, that ſincerely en<g ref="char:EOLhyphen"/>deavoured to bring in ſoules
+<pb n="44" facs="tcp:169825:25"/>unto Chriſt: but ſtill he incou<g ref="char:EOLhyphen"/>raged them; and, as he found cauſe informed, and directed them, in a wiſe and taking way, to their great improvement.</p>
+            <p>
+               <label>His mirth.</label> In his mirth (to which he ſometimes unbended himſelf to refocillate his weryed mind, that with renewed ſtrength he might return to his more ſeri<g ref="char:EOLhyphen"/>ous and ſeverer ſtudies) he ſtrictly obſerved the bounds of honeſty, civility, modeſty, and the gravity of his place; well weighing, that the leaſt dead flie in the Apothecaries choy<g ref="char:EOLhyphen"/>ceſt ointment, cauſeth it to ſend forth an unpleaſing ſavour.</p>
+            <p>The Table was uſually the place of his greateſt liberty in this kind, yet even there he would ſtill interlace his mirth with ſome droppings of a more ſerious wit, which might inſtruct as well as exhilarate;
+<pb n="35" facs="tcp:169825:25"/>and contain all within the li<g ref="char:EOLhyphen"/>mits of ſobriety, without biting Sarcaſms, or unſeeming ſcur<g ref="char:EOLhyphen"/>rility. And uſually, hee cloſed all with the reading of ſome Scripture, and giving ſome ſhort profitable ſtrictures there<g ref="char:EOLhyphen"/>upon, which might adminiſter grace to the hearers, and leave a ſweet reliſh and ſavour upon their ſpirits &amp; whole converſe.</p>
+            <p>
+               <label>His Cha<g ref="char:EOLhyphen"/>racter.</label> To give you a full character of his whole deportment in few words; He was a good and a faithfull ſteward in his Maſters houſe, always aboun<g ref="char:EOLhyphen"/>ding in the work of the Lord, a Pillar in the houſe of his God: never weary of his Lords work, but beſt pleaſed when he had done moſt ſervice. His converſation was immaculate, his behaviour uniforme, and univerſally pious. He was grave without auſterity, plea<g ref="char:EOLhyphen"/>ſant
+<pb n="36" facs="tcp:169825:26"/>without levity, courteous without diſſembling, free in diſcourſe where he might pro<g ref="char:EOLhyphen"/>fit, yet reſerved where he ſaw cauſe. He was ſeldome the firſt ſpeaker, although beſt able to ſpeak. He loved uſe<g ref="char:EOLhyphen"/>full diſcourſe, but abhorred froth and babling: he was witty without vanity, faceti<g ref="char:EOLhyphen"/>ous without girding or grie<g ref="char:EOLhyphen"/>ving of others. He knew his place, yet not inſolent; reſolute, but not wilfull; maintained his authority, but not haugh<g ref="char:EOLhyphen"/>ty; a great maſter of his own paſsions and affections, and thereby abundantly furniſhed with the more abilities and embelliſhments that moſt at<g ref="char:EOLhyphen"/>tract and maintain the deareſt love, the deepeſt reverence, and higheſt reſpect; a great admirer of learning, and piety in others, though farte below
+<pb n="37" facs="tcp:169825:26"/>himſelf in both. His affecti<g ref="char:EOLhyphen"/>ons were above, though he were below, he converſed more with heaven then with earth while he remained in it, and is now <hi>a Crown of glory in the hand of the Lord, and a royall Diadem in the hand of his God,</hi> as being an ornament unto heaven it ſelf.</p>
+            <p>
+               <label>His age and zeal for the Churches.</label> He lived in the world 75 years (within one moneth) in which long race he ſaw many ſad changes, and ſore ſtormes beating hard upon the Church toſſed with tempeſts, and not yet at Anchor. But never was <hi>David</hi> more diſtreſſed for his deareſt <hi>Jonathan,</hi> than this man of bowels for the calamities of the dear ſpouſe of Chriſt. He was moſt inceſſantly inquiſi<g ref="char:EOLhyphen"/>tive after her eſtate in all coun<g ref="char:EOLhyphen"/>treys, a ſad lamentor of all her afflictions, a daily Orator and
+<pb n="38" facs="tcp:169825:27"/>mighty Advocate for her at the throne of Grace, and never enjoyed himſelf but when he deſcryed her under ſaile to<g ref="char:EOLhyphen"/>wards ſome creek or haven of comfort and reſt; being much in prayer and faſting for her full reformation and perfect deliverance.</p>
+            <p>
+               <label>His hopes of the King of <hi>Sweden.</hi>
+               </label> Some good hopes whereof he conceived in the proſperous atchievements of the great <hi>Guſtavus,</hi> laſt King of <hi>Sweden (Semper auguſtus.)</hi> But when he, by the ſad and unſearchable providence of the only wiſe God) ſuddenly and untimely fell, in the full carreir of his victories, and of the Churches hopes, and that the Chriſtian world was (in his fall) hurled from the height of ſo great expectation, he continually mourned over the unhappy ſetting of that glorious nor<g ref="char:EOLhyphen"/>thern
+<pb n="39" facs="tcp:169825:27"/>Starre, as a ſad preſage of all the inundations of mi<g ref="char:EOLhyphen"/>ſeries ſince befallen, (and ſtill riſing higher and higher upon) the Churches of Chriſt: the quick and deep ſenſe whereof lay cloſe unto his heart to his dying day.</p>
+            <p>
+               <label>His ſuf<g ref="char:EOLhyphen"/>ferings and dangers.</label> Nor was he without his <hi>Manes,</hi> in our common trou<g ref="char:EOLhyphen"/>bles. He was affronted by dan<g ref="char:EOLhyphen"/>gerous ruffians and bloudy minded fouldiers tyrannizing over him in his own houſe; not permitting him quietly to en<g ref="char:EOLhyphen"/>joy himſelf and his God, in his private ſtudy, to which he of<g ref="char:EOLhyphen"/>ten retyred not only from their inſolencies, but blaſphemies. Even thither would they pur<g ref="char:EOLhyphen"/>ſue him with drawn ſwords, vowing his inſtant death, for not complying with them in their bloudy ingagements. Yet it pleaſed that gracious God
+<pb n="40" facs="tcp:169825:28"/>whom he had ſo faithfully ſerved, to preſerve him for fur<g ref="char:EOLhyphen"/>ther ſervice, and to make that a chamber for his preſervation, which they intended for his ſlaughter-houſe, &amp; at length to bring him to his end in peace.</p>
+            <p>
+               <label>His death.</label> When he had faithfully ſer<g ref="char:EOLhyphen"/>ved his generation by the will of God, in the Goſpel of his Son, above 47 years, he was <hi>(Dum licuit liquida coelum tranſcendere fama)</hi> gathered to his fathers in a good age full of days and ho<g ref="char:EOLhyphen"/>nour, by an happy death (the certain reſult of an holy life) <hi>Decemb.</hi> 25. 1649. the day uſually obſerved for celebra<g ref="char:EOLhyphen"/>ting the Nativity of his Great Lord and Maſter the Lord Jeſus Chriſt.</p>
+            <p>
+               <label>His Fu<g ref="char:EOLhyphen"/>nerall.</label> The laſt teſtimony of the peoples great love to him muſt not be forgotten by any that
+<pb n="41" facs="tcp:169825:28"/>deſire to preſerve his precious memory in their hearts with honour. This amply appea<g ref="char:EOLhyphen"/>red by their great lamentation and mourning for him in his ſickneſſe, and at his death, and ſad exequies. His funerals were extraordinarily celebrated not only by the voluntary conflux of the greateſt number of people that ever crowded into the ſpacious fabrick of that Church, and by many hundreds moe there aſſembled about the doors and unable to get in; but by multitudes of Gentlemen and Miniſters, all ſtriving to out-mourn each o<g ref="char:EOLhyphen"/>ther, ſtanding about his hearſe with tears, recounting his ex<g ref="char:EOLhyphen"/>cellent labours, his fruitfull life, their great profiting by him (as ſometimes the wi<g ref="char:EOLhyphen"/>dowes about <hi>Peter, weeping and ſhewing the coates and gar<g ref="char:EOLhyphen"/>ments
+<pb n="42" facs="tcp:169825:29"/>which Dorcas made while ſhe was with them)</hi> every one aggravating their griefes and loſſes in his gain, and ſtriving who ſhould honour him moſt in bearing his dead body to the bed of reſt.</p>
+            <p>
+               <label>Teſtimo<g ref="char:EOLhyphen"/>ny given him at his Funerall.</label> The Teſtimony given him at his interment by him who performed that laſt office with many tears, and which he knowingly ſpake from his long and intimate acquaintance and converſing with him almoſt 40 years, take with you for a cloſe in that Miniſters own words out of the Pulpit.</p>
+            <q rend="margDblQuotes">
+               <p>Although funerall orati<g ref="char:EOLhyphen"/>ons are commonly either the vain flouriſhes of mercenary tongues, or the weake ſup<g ref="char:EOLhyphen"/>ports of an emendicated fame; and ſince good mens works ſhall praiſe them in the gates, tis but to light a can<g ref="char:EOLhyphen"/>dle
+<pb n="43" facs="tcp:169825:29"/>to the Sun: and, ſince bad mens works cannot be covered with ſo thin a daub; tis but to paint a rotten poſt: Yet ſome Teſtimony is due to ſuch, as having obtained a more eminent place in Chriſts myſticall body the Church, have alſo been in<g ref="char:EOLhyphen"/>ſtruments of more then or<g ref="char:EOLhyphen"/>dinary good to his members. <hi>Samuel</hi> dyed a Judge, a Pro<g ref="char:EOLhyphen"/>phet, a Great man, a good man in <hi>Iſrael; and all the Iſ<g ref="char:EOLhyphen"/>raelites were gathered together</hi> (to honour his obſequies) <hi>and lamented him and buried him</hi> 1 <hi>Sam.</hi> 25.1.</p>
+               <p>To ſay nothing then, of ſo rich a Cargazon, ſo full a magazin, ſo rare a ſubject of all commendable qualities and admirable endowments; were a fruſtrating of your eager expectations.</p>
+               <pb n="44" facs="tcp:169825:30"/>
+               <p>To ſay little, were a wrong to him that deſerved ſo much; to ſay much, were both a de<g ref="char:EOLhyphen"/>rogation from his merits, that may challenge, and an impu<g ref="char:EOLhyphen"/>tation upon your judgements and affections that will ac<g ref="char:EOLhyphen"/>knowledge more due, then I can now deliver. Neverthe<g ref="char:EOLhyphen"/>leſs, ſince the memorial of the juſt is a ſweet perfume, give me leave to ſtrew a few of his own flowers upon his herſe, an I'le diſcharge your patience.</p>
+               <p>His holy life, and conſcien<g ref="char:EOLhyphen"/>tious courſes, his conſtant la<g ref="char:EOLhyphen"/>bours thrice a week in the Mi<g ref="char:EOLhyphen"/>niſtry of the Goſpel (unleſs in times of ſickneſſe or neceſſi<g ref="char:EOLhyphen"/>tated reſtraint) for the ſpace of forty ſeven years (where<g ref="char:EOLhyphen"/>in he could give an account of above ſeven thouſand elaborate Sermons preached
+<pb n="45" facs="tcp:169825:30"/>by him) are ſo well known not onely in this, or the neighbour Pariſhes, but tho<g ref="char:EOLhyphen"/>rough the whole County, and the Country round a<g ref="char:EOLhyphen"/>bout that I need not menti<g ref="char:EOLhyphen"/>on them.</p>
+               <p>Few men ever ran ſo long a race without ceſſation or ceſpitation, ſo conſtantly, ſo unweariably, ſo unblameably.</p>
+               <p>All which time he was a burning, and a ſhining light, joyfully ſpending, and being ſpent for the good of Gods people. Many, many of whom he hath guided to heaven before him, who re<g ref="char:EOLhyphen"/>ceived the beginnings of ſpirituall life from his mini<g ref="char:EOLhyphen"/>ſtery; and many more ſhall walk in that light after him.</p>
+               <p>And from his ſplendent lampe, divers faithfull mini<g ref="char:EOLhyphen"/>ſters (ſome Triumphant be<g ref="char:EOLhyphen"/>fore
+<pb n="46" facs="tcp:169825:31"/>him, ſome Militant af<g ref="char:EOLhyphen"/>ter him) have lighted their candles. His Tueſday le<g ref="char:EOLhyphen"/>cture being more profitable to teach uſefull Divinity, then an Academy, whereby he did not only <hi>dolare lapides, ſed artifices.</hi>
+               </p>
+               <p>Two things (rarely met in one man) were both emi<g ref="char:EOLhyphen"/>nent in him. A quick inven<g ref="char:EOLhyphen"/>tion, and a ſound judgment, and theſe accompanied with a clear expreſsion, and a gracefull elocution. To which integrity and humility being joyned, made him a tranſcendent Miniſter, and a compleat Chriſtian.</p>
+               <p>In his ſickneſſe (full of biting paines, which he bore with great patience) it was his greateſt griefe, that God had taken him off from his labour, which was his life and
+<pb n="47" facs="tcp:169825:31"/>joy. His heavenly minde (like the heavenly bodies) counted his work no wea<g ref="char:EOLhyphen"/>rineſſe. If he were weary in work, he was yet never wea<g ref="char:EOLhyphen"/>ry of work. His ſpirit was ſtill willing, when the fleſh was weak. And he often uſed to ſay in his health, <hi>Si per hanc viam mors, ſum im<g ref="char:EOLhyphen"/>mortalis;</hi> and in his weakneſs <hi>odi artus fragilemque hunc cor<g ref="char:EOLhyphen"/>por is uſum deſertorem animi.</hi>
+               </p>
+               <p>And when he ſaw no more ability for labours, he coun<g ref="char:EOLhyphen"/>ted it ſuperfluous to live; and cheerfully not only yeelded but patiently deſired to die, in a ſatiety and fulneſs of life. Not as a meat loathed (as many times naturall men doe) but as a diſh, though wel-liked, that he had fed his full of.</p>
+               <p>He had his intellectuals
+<pb n="48" facs="tcp:169825:32"/>ſtrong in a weak body; wit<g ref="char:EOLhyphen"/>neſſe his laſt ſwanlike ſong in this place, the ſweet doctrine of our <hi>Adoption</hi> in Jeſus Chriſt, on <hi>Rom.</hi> 8.16. (ſo far he had gone in that <hi>chap.</hi> moſt cleerly and accurately delivered, and aptly diſtin<g ref="char:EOLhyphen"/>guiſhed from Juſtification and Sanctification, yet that day <hi>October</hi> 16. going to Church and ſenſitive of his own weakneſſe, he ſaid to a dear friend (who told him that he came to ſee and hear him) <hi>perhaps it may be my laſt;</hi> as to all our loſſe it was in<g ref="char:EOLhyphen"/>deed.</p>
+               <p>And as if his motion in Gods work, had been natu<g ref="char:EOLhyphen"/>rall, he was more quick, more vigorous towards his Cen<g ref="char:EOLhyphen"/>ter, and like the Sunne ſhew<g ref="char:EOLhyphen"/>ed his greateſt light, when he was neareſt his ſetting.</p>
+               <pb n="49" facs="tcp:169825:32"/>
+               <p>His laſt miniſteriall duty privately done in great weak<g ref="char:EOLhyphen"/>neſſe of body (unable to go to the Church) was the ba<g ref="char:EOLhyphen"/>ptizing of two children; wherein he ſtreamed ſuch beams of Divinity; ſounded ſuch bowels of humanity, ſhewed ſuch ſweetneſſe of af<g ref="char:EOLhyphen"/>fection to his charge, that I ſeriouſly wiſhed his whole Congregation had heard him, in this departing fare<g ref="char:EOLhyphen"/>well. And being told how well it was approved, he re<g ref="char:EOLhyphen"/>plyed with tears in great hu<g ref="char:EOLhyphen"/>mility, <hi>Lord what am I? What am I?</hi>
+               </p>
+               <p>To divers of his loving Neighbours viſiting him, he often proteſted that doctrine which he had taught them was the Truth of God; as he ſhould anſwer at the Tribu<g ref="char:EOLhyphen"/>nall of Chriſt, whereunto he
+<pb n="50" facs="tcp:169825:33"/>was haſting, exhorting them to ſtand faſt therein, as he moſt affectionately prayed for them; profeſſing of them with joy, I have kind friends, kind neighbours, Lord re<g ref="char:EOLhyphen"/>ward them all, and grant they may <hi>find mercy with him in that day.</hi>
+               </p>
+               <p>His deſire was to give to his neighbours (if enough could have been had) his printed Catechiſm which (to my knowledge) hath had the approbation and com<g ref="char:EOLhyphen"/>mendation of the profoun<g ref="char:EOLhyphen"/>deſt and acuteſt judgements in both Univerſities; and well it might, being a com<g ref="char:EOLhyphen"/>pleat body of orthodox Di<g ref="char:EOLhyphen"/>vinity, and to have this aſſerti<g ref="char:EOLhyphen"/>on of the Apoſtle <hi>Peter</hi> writ<g ref="char:EOLhyphen"/>ten before it—<hi>Exhorting and teſtifying that this is the true grace of God wherein ye ſtand,</hi>
+                  <pb n="51" facs="tcp:169825:33"/>—and to ſubſcribe his name to it.</p>
+               <p>After he had in himſelf re<g ref="char:EOLhyphen"/>ceived the ſentence of approa<g ref="char:EOLhyphen"/>ching death (which he chear<g ref="char:EOLhyphen"/>fully did, when he ſaw no more likelihood of labour) he deſi<g ref="char:EOLhyphen"/>red his friends not to pray for life, but pray God (ſaid he) for faith, for patience, for re<g ref="char:EOLhyphen"/>pentance, for joy in the holy Ghoſt: and God heard him in that he deſired, for he was a rare pattern of all theſe, as (a<g ref="char:EOLhyphen"/>mong many) theſe gratious words of his may witneſſe, <hi>Lord caſt me down as low as hell in repentance, and lift me up by faith unto the higheſt hea<g ref="char:EOLhyphen"/>vens in confidence of thy ſalva<g ref="char:EOLhyphen"/>tion.</hi>
+               </p>
+               <p>I wiſh our proud preſum<g ref="char:EOLhyphen"/>ptuous impenitentiaries had heard him crying for repen<g ref="char:EOLhyphen"/>tance, and ſeen him weeping
+<pb n="42" facs="tcp:169825:34"/>for grace. It might perhaps have melted their ſtout hearts.</p>
+               <p>As he was full of days, ſo was he full of grace, full of peace, full of aſſurance. The tueſday before he departed, <hi>This day ſennight</hi> (ſaith he) <hi>is the day on which we have re<g ref="char:EOLhyphen"/>membred Chriſts Nativity; and on which day I have preached Chriſt. I ſhall ſcarſe live to ſee it; but, For Me was that child born, Unto me was that Son gi<g ref="char:EOLhyphen"/>ven, who is, Wonderfull, Coun<g ref="char:EOLhyphen"/>ſellour, the mighty God, the e<g ref="char:EOLhyphen"/>verlaſting Father, the Prince of peace.</hi>
+               </p>
+               <p>And no leſſe full was he of true honour for his worth, and work ſake, in the hearts of all that fear God. His me<g ref="char:EOLhyphen"/>mory ſhall be bleſſed; and his name a ſweet perfume to poſterity, when the names of
+<pb n="53" facs="tcp:169825:34"/>his reproachfull ſcorners (the laſt brood of <hi>Beelzebub</hi>) ſhall rot and ſtink, and be an abhorring to all fleſh.</p>
+               <p>He is now come to the end of his labour, and the be<g ref="char:EOLhyphen"/>gining of his reſt. His work was with his God, and his reward ſhall be from God. Now he ſees the bleſſed and bleſſing face of God; which is the glory of all ſights, and the ſight of all glory.</p>
+               <p>Thus ſet this bright occi<g ref="char:EOLhyphen"/>dentall ſtarre; A ſtarre of the firſt magnitude; One of the firſt, and I dare ſay (with<g ref="char:EOLhyphen"/>out envy of any that knew him, and knows himſelf) one of the moſt glorious Lights that ever ſhone in this Orbe, or ever is like to ariſe in this Horizon. O! how is ſuch a publick loſſe to be lamen<g ref="char:EOLhyphen"/>ted! of ſuch a Champion of
+<pb n="53" facs="tcp:169825:35"/>Chriſt! ſuch an <hi>Atlas</hi> of truth! that ſet his ſhoulders to ſupport the ſhaken pil<g ref="char:EOLhyphen"/>lars thereof in theſe days of abounding and abetted er<g ref="char:EOLhyphen"/>rors!</p>
+               <p>Well may this Pariſh mourn, well may this coun<g ref="char:EOLhyphen"/>try, well may his friends, his family, well may we of the Miniſtery bewail it, ſaying, <hi>O my Father, my Father, the chariots of Iſrael, and the horſe<g ref="char:EOLhyphen"/>men thereof!</hi> Ah my brother, my brother! I am diſtreſſed for thee, very pleaſant haſt thou been unto me: lovely and gratious in life, lovely &amp; glorious in death.</p>
+               <q rend="margSglQuotes">
+                  <l>
+                     <hi>Heu tua nobis</hi>
+                  </l>
+                  <l>
+                     <hi>Morte ſimul tecum ſolatia rapta!</hi>
+                  </l>
+               </q>
+               <p>I end in one word of <hi>Exhor<g ref="char:EOLhyphen"/>tation.</hi>
+               </p>
+               <p>You that have heard the
+<pb n="55" facs="tcp:169825:35"/>joyfull ſound of this (now broken) ſilver Trumpet ſo long, remember that by the ſpace of forty ſeven years he ceaſed not to warn every one with tears. Remember what he hath ſpoken while he li<g ref="char:EOLhyphen"/>ved; Remember what he yet ſpeaks being dead. Hold faſt the form of ſound words which ye have heard of him. Hold faſt the faithfull word which he hath taught you. Hold faſt the profeſſion of your faith without wavering. Take heed of wolves. Beware of doggs. Take heed of men: men of perverſe minds; ſpea<g ref="char:EOLhyphen"/>king perverſe things, to draw Diſciples after them. Al<g ref="char:EOLhyphen"/>though the Prophets die, yet Gods word ſpoken by them ſhall live for ever: and will doe good to them that walk uprightly; and ſhall take hold
+<pb n="56" facs="tcp:169825:36"/>on them that obey it not.</p>
+               <p>So let us leave our Brother in the bed of Honour, till the joyfull morning of the Re<g ref="char:EOLhyphen"/>ſurrection of the juſt, when hee among them that have, <hi>turned many to righteouſ<g ref="char:EOLhyphen"/>neſſe ſhall ſhine as the ſtarres for ever and ever.</hi>
+               </p>
+            </q>
+            <epigraph>
+               <q>
+                  <bibl>
+                     <hi>Pſal.</hi> 112.6.</bibl>
+                  <p>The righteous ſhall be had in everlaſting remembrance.</p>
+               </q>
+            </epigraph>
+         </div>
+      </body>
+      <back>
+         <div type="attestation">
+            <pb n="57" facs="tcp:169825:36"/>
+            <head>ATTESTATIO.</head>
+            <p>NOs Sacro-ſancti Evangelii Miniſtri, qui, ſummo cum fructu, plus annis triginta fui<g ref="char:EOLhyphen"/>mus, tum Concionum verè divi<g ref="char:EOLhyphen"/>narum, tum <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> Sanctiſsimi pariter ac do<g ref="char:EOLhyphen"/>ctiſsimi Paſtoris Magiſtri <hi>Samu<g ref="char:EOLhyphen"/>clis Crook,</hi> auriti &amp; oculatite<g ref="char:EOLhyphen"/>ſtes, Commentariolum de vita &amp; morte Clariſsimi iſtius Evange<g ref="char:EOLhyphen"/>liſtae, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, per dilectum Symmyſtam noſtrum, <hi>W.G.</hi> or<g ref="char:EOLhyphen"/>natè conſcriptum perſpeximus: Quem quidem libellum (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> titulo inſignitum) avidi<g ref="char:EOLhyphen"/>oribus, quod aiunt, animis luſtra<g ref="char:EOLhyphen"/>vimus. Quum autem ad hoc nati ſumus, ut teſtimonium veritati perhibeamus, teſtatum facimus quod vel omnes illos quos Frater noſter collectos ſparſerit flores, quibus Cenotaphium <hi>Amoris</hi>
+               <pb n="58" facs="tcp:169825:37"/>noſtri exornavit, Cineribus tam ſacris minime ſufficere. Omnia enim illa quae Florilegio iſto, de Fratre (vel potius Reverendo Patre) deſiderato, Paſtore fideliſ<g ref="char:EOLhyphen"/>ſimo ornatiſsimóque collecta ſunt, vel exiguam ejus meritorum par<g ref="char:EOLhyphen"/>tem attigiſſe cenſemus.</p>
+            <p>Verum enimvero, quoniam me<g ref="char:EOLhyphen"/>moria juſti auditbenedicta, &amp; in aeternum celebrabitur.
+<q>
+                  <l>Solennes <hi>quas ille</hi> Dapes, &amp; triſtiae dona</l>
+                  <l>Libavit cineri Fratríſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> Patriſ<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ſacrati,</l>
+               </q> tam beatae Tanti viri memoriae conſervationi, debitoque virtutum honori, quam omnium delibationi commendandas, aequum eſſe judi<g ref="char:EOLhyphen"/>camus.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>
+                        <hi>C. B.</hi>
+                     </item>
+                     <item>
+                        <hi>A. P.</hi>
+                     </item>
+                     <item>
+                        <hi>W.T.</hi>
+                     </item>
+                     <item>
+                        <hi>S.T.P.</hi>
+                     </item>
+                     <item>
+                        <hi>S.T.B.</hi>
+                     </item>
+                     <item>
+                        <hi>A.M.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="epitaphs">
+            <pb n="59" facs="tcp:169825:37"/>
+            <head>EPITAPHIA.</head>
+            <head type="sub">In fragrantiſſimam magni Literarum ſimul ac Sanctimoniae Gazophylacii M<hi rend="sup">ri</hi> 
+               <hi>Samuelis Crook,</hi> Eccleſiae <hi>Wring<g ref="char:EOLhyphen"/>tonienſis</hi> nuper Paſtoris fideliſſimi, ae<g ref="char:EOLhyphen"/>ternum<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> honorandi memoriam, Car<g ref="char:EOLhyphen"/>men quale quale <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> poſuit gemebundus.</head>
+            <div type="epitaph">
+               <lg>
+                  <l>MAgne Vigil! noſtris quae Naenia juſta querelis!</l>
+                  <l>Aut queis carminibus Te dignis funus honore<g ref="char:cmbAbbrStroke">̄</g>!</l>
+                  <l>Grata fuit pulchro veneranda in corpore virtus,</l>
+                  <l>Fronte ſerenus eras, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> ſuper ora ſedebant.</l>
+                  <l>Mens tua candidior, coeleſtibus inclyta donis,</l>
+                  <l>Ingenio pollens, pietate potentior almâ.</l>
+                  <l>Tu Veri columen, <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> tibi mentis acumen,</l>
+                  <l>Doctrinae culmen, Tu Religionis aſylum.</l>
+                  <l>Paſtorale <hi>pedum</hi> (nec enim cognomen
+<note n="*" place="margin">
+                        <hi>Crook.</hi>
+                     </note> inane)</l>
+                  <l>Verſaſti egregie, <hi>Samuelis</hi>
+                     <note n="a" place="margin">1 Sam. 3.20.</note> munere functus,</l>
+                  <l>Chriſticolúm<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> gregem
+<note n="b" place="margin">Zech. 11.7.</note> paviſti ad flumina
+<note n="c" place="margin">Pſal. 23.2. Iohn 4.14.</note> Chriſti.</l>
+                  <l>Te rapit una dies, qualem vix multa tulere</l>
+                  <l>Secla, tibi ſimilem nec reddent plurima ſecla.</l>
+                  <l>I decus! I noſtrum! regnúmque capeſſe ſupernum!</l>
+                  <l>O Deus! accipias <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap> vota gementis,</l>
+                  <l>Atque tuis rapti Paſtoris. damna rependas!</l>
+               </lg>
+               <closer>
+                  <signed>C. B. S. T. D.</signed>
+               </closer>
+            </div>
+            <div type="epitaph">
+               <pb n="60" facs="tcp:169825:38"/>
+               <head>In obitum Paſtoris vigilantiſſimi M<hi rend="sup">r</hi> 
+                  <hi>Samuelis Crook,</hi> Epicedium.</head>
+               <lg>
+                  <l>TErrenos coetus cum deſeris optime Paſtor,</l>
+                  <l>Paſtoris ſuperi conſociande choro,</l>
+                  <l>Da veniam, ſi nos memores virtutis ademptae</l>
+                  <l>Exequias imus, carmine, corde, pias.</l>
+                  <l>Officium mandat lachrymas, virtuſque dolorque,</l>
+                  <l>Cum claram tenuis Lampada pulvis habet.</l>
+                  <l>Relligio, virtus, pietas, prudentia, candor,</l>
+                  <l>Et Charites fato cum cecidere tuo.</l>
+                  <l>Sydera conduntur nobis! quis ſaeva ſeverus</l>
+                  <l>Damnatos tenebris, damna dolere vetet<g ref="char:punc">▪</g>
+                  </l>
+                  <l>Tu vero aeternum, Paſtor fidiſſime, ſalve,</l>
+                  <l>Aeternúmque bonis (frater amande) vale,</l>
+                  <l>Dum nos vivendo fatis urgemur iniquis,</l>
+                  <l>Quis mundi ancipitis exitus hujus erit.</l>
+               </lg>
+               <closer>
+                  <signed>A. P. S. T. B.</signed>
+               </closer>
+            </div>
+            <div type="epitaph">
+               <pb n="61" facs="tcp:169825:38"/>
+               <head>In diſceſſum ſanctiſsimi viri Magiſtri <hi>Samuelis Crook.</hi>
+               </head>
+               <lg>
+                  <l>SI me Pierides Permeſſidos imbre rigaſſent,</l>
+                  <l>Emeritum, quàm te vellem decorare ſupremis</l>
+                  <l>Muneribus! (noſtro nunquam ô dulciſſime Paſtor,</l>
+                  <l>Ex animo delende) licet non funere acerbo</l>
+                  <l>Raptum, at matura ſublatum morte, malorum</l>
+                  <l>Turbinibus, vivos angentibus omine diro.</l>
+                  <l>Te Muſae Avoniae, Nymphae luxere Sabrinae,</l>
+                  <l>Te gelidi flevere amnes, te dulce Lyceum</l>
+                  <l>Wringtoniae, triſtis lachrymat vicinia latè.</l>
+                  <l>Teque Auditorum gemuit pia turba tuorum;</l>
+                  <l>Et nos infauſti damus argumenta doloris</l>
+                  <l>Praecones verbi, tanto Doctore carentes.</l>
+                  <l>Damna tuis tua ſunt, tibi funera lucra, furenti</l>
+                  <l>Nos morimur luctu, dum tu tranſcendis Olympum.</l>
+                  <l>Magnum vivendi exemplum, majus moriendi.</l>
+                  <l>Ecce Deus reduci, ſolium, regnum parat! O ſi</l>
+                  <l>Haec olim noſtros maneat via pervia manes!</l>
+               </lg>
+               <closer>
+                  <signed>W. T. A. M.</signed>
+               </closer>
+            </div>
+            <div type="epitaph">
+               <pb n="60" facs="tcp:169825:39"/>
+               <head>Carmina Monumento ſub icone Marmoreo venerandi viri Samuelis Crook, infigenda.</head>
+               <head type="sub">M. S.</head>
+               <lg>
+                  <l>MArmora ſi vultum viventis reddere poſſent,</l>
+                  <l>Invidioſa forent, quod tam pulcherrima: ſi fas</l>
+                  <l>Compoſitos mores, divinam oſtendere mentem,</l>
+                  <l>Intemerata forent, queniam imperioſa. Sed iſta</l>
+                  <l>Caſibus, aut ſcelere, aut ſeris abolentur ab annis;</l>
+                  <l>Sola perire nequit virtus, &amp; fama piorum.</l>
+                  <l>Et cum terrarum flammis opus omne domandum,</l>
+                  <l>Triſtia venturus referet divertia Judex.</l>
+               </lg>
+               <closer>
+                  <signed>W. G. A. M.</signed>
+               </closer>
+            </div>
+            <div type="epitaph">
+               <head type="sub">Proſopopoeia beatae animae, in <hi>Mortem Triumphatam,</hi> ſeu <hi>Concionem</hi> in <hi>Hoſea</hi> 13.14. per eundem virum <hi>Samuelem Crook</hi> ſemper reverendum, editam.</head>
+               <lg>
+                  <l>SAEva quid indomitis jactas populare ruinis</l>
+                  <l>Atropos? en victa es! peccati lege refixâ,</l>
+                  <l>Manibus invitis, Erebó<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ululante, per unum</l>
+                  <l>Triſtia funerei ſolvuntur foedera lethi.</l>
+                  <l>Scandite foelices animae laquearia Coeli</l>
+                  <l>Aurea, nequicquam trepidantes vana timorum</l>
+                  <pb n="61" facs="tcp:169825:39"/>
+                  <l>Somnia. Nil poterit (vobis poſtrema malorum)</l>
+                  <l>Mors fera ferre mali. Superorum in regna recluſum</l>
+                  <l>Pandit iter. Spatiis mens aegrè incluſa malignis</l>
+                  <l>Hac coelo aſſeritur, gremio, ſolió<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> beanda</l>
+                  <l>Aeterni Patris, malefidis rebus adempta,</l>
+                  <l>Sub pedibúſque videt nubes &amp; ſydera foelix.</l>
+                  <l>Ergo alacres animae mortis terrore ſolutae,</l>
+                  <l>Immunes fati, victorem pangite Chriſtum.</l>
+               </lg>
+               <closer>
+                  <signed>
+                     <hi>Idem</hi> W. G.</signed>
+               </closer>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </back>
+   </text>
+</TEI>
